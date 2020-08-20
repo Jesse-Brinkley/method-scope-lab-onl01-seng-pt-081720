@@ -1,6 +1,3 @@
-def catch_phrase(pen)
-  puts pen
+def catch_phrase(phrase)
+  puts phrase
 end
-
-
-catch_phrase("Jesse")
