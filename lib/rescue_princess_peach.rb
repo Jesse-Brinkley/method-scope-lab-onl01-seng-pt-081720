@@ -1,4 +1,4 @@
-def 
+def
   status = "rescued"
    "Hooray! Mario has rescued Princess Peach."
 end
