@@ -1,3 +1,3 @@
 def catch_phrase(pen)
-  puts pen 
+  puts pen
 end
